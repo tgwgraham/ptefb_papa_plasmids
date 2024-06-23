@@ -3,7 +3,7 @@ P-TEFb PAPA paper plasmids (2024)
 
 pTG1043	pEF-Myc-Tat and pTG1044	pHIV-Luc were kind gifts of Koh Fujinaga (UCSF). 
 
-pTG755 and pTG988 were used here: (https://elifesciences.org/articles/76870)[https://elifesciences.org/articles/76870]
+pTG755 and pTG988 were used here: [https://elifesciences.org/articles/76870](https://elifesciences.org/articles/76870)
 
 pTG888 CMV-Renilla is commercially available [from Promega](https://www.promega.com/products/luciferase-assays/genetic-reporter-vectors-and-cell-lines/promoter-driven-control-renilla-luciferase-vectors/?catNum=E6931)
 
